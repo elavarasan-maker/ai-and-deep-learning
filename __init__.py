@@ -1,0 +1,1 @@
+"""Wildfire detection project package."""
